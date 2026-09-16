@@ -2,7 +2,6 @@ measurements = [18, 21, 24, 19]
 review_threshold_text = "20"
 
 # Replace this scaffold output with your calculation, loop, decision, and summary.
-print("TODO: complete the measurement summary")
 
 review_threshold = int(review_threshold_text)
 total, review_count = 0, 0
